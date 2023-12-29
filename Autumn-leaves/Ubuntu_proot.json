@@ -14,7 +14,7 @@
                },
                "Ubuntu20": {
                     "proot_file_name": "ubuntu20.04_aarch64_rootfs",
-                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/focal/arm64/default/20230829_07:42/rootfs.tar.xz"
+                    "proot_file_url": "NULL"
                },
                "Ubuntu22": {
                     "proot_file_name": "ubuntu22.04_aarch64_rootfs",
