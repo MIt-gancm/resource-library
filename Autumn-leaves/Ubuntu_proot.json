@@ -1,0 +1,46 @@
+{
+     "version": "1.0",
+     "aarch64": {
+          "message": "first release",
+          "proot_files": {
+               "systems": [
+                    "Ubuntu18",
+                    "Ubuntu20",
+                    "Ubuntu22"
+               ],
+               "Ubuntu18": {
+                    "proot_file_name": "ubuntu18.04_aarch64_rootfs",
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/bionic/arm64/default/20230829_07%3A43/rootfs.tar.xz"
+               },
+               "Ubuntu20": {
+                    "proot_file_name": "ubuntu20.04_aarch64_rootfs",
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/focal/arm64/default/20230829_07:42/rootfs.tar.xz"
+               },
+               "Ubuntu22": {
+                    "proot_file_name": "ubuntu22.04_aarch64_rootfs",
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/jammy/arm64/default/20230829_07%3A57/rootfs.tar.xz"
+               }
+          }
+     },
+     "x86_64": {
+          "message": "first release",
+          "proot_files": {
+               "systems": [
+                    "Ubuntu18",
+                    "Ubuntu20"
+               ],
+               "Ubuntu18": {
+                    "proot_file_name": "ubuntu18.04_x86_64_rootfs",
+                    "proot_file_url": "NULL"
+               },
+               "Ubuntu20": {
+                    "proot_file_name": "ubuntu20.04_x86_64_rootfs",
+                    "proot_file_url": "NULL"
+               },
+                "Ubuntu20": {
+                    "proot_file_name": "ubuntu22.04_x86_64_rootfs",
+                    "proot_file_url": "NULL"
+               }
+          }
+     }
+}
