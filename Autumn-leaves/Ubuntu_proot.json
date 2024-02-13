@@ -10,15 +10,15 @@
                ],
                "Ubuntu18": {
                     "proot_file_name": "ubuntu18.04_aarch64_rootfs",
-                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/bionic/arm64/default/20240206_07%3A42/rootfs.tar.xz"
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/bionic/arm64/default/20240209_07%3A42/rootfs.tar.xz"
                },
                "Ubuntu20": {
                     "proot_file_name": "ubuntu20.04_aarch64_rootfs",
-                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/focal/arm64/default/20240206_07%3A42/rootfs.tar.xz"
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/focal/arm64/default/20240209_08%3A04/rootfs.tar.xz"
                },
                "Ubuntu22": {
                     "proot_file_name": "ubuntu22.04_aarch64_rootfs",
-                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/jammy/arm64/default/20240206_07%3A42/rootfs.tar.xz"
+                    "proot_file_url": "https://mirrors.tuna.tsinghua.edu.cn/lxc-images/images/ubuntu/jammy/arm64/default/20240209_07%3A42/rootfs.tar.xz"
                }
           }
      },
